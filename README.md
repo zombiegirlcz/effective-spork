@@ -1,3 +1,4 @@
+                 https://g.co/gemini/share/70ed74173960
 # ---------------------------------------------------------
 # WINS EMERGENCY SYSTEM OVERRIDE V1.0
 # Účel: Náhrada za blokovaný Task Manager a RegEdit
